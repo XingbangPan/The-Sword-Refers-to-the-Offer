@@ -4,5 +4,6 @@
 int main()
 {
     Solution s;
+    cout<<s.isNumber("1 ");
     
 }
